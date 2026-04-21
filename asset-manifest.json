@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "./static/js/main.d70e1395.js",
-    "index.html": "./index.html",
-    "main.d70e1395.js.map": "./static/js/main.d70e1395.js.map"
+    "main.js": "/tennis-app/static/js/main.a6ca0946.js",
+    "index.html": "/tennis-app/index.html",
+    "main.a6ca0946.js.map": "/tennis-app/static/js/main.a6ca0946.js.map"
   },
   "entrypoints": [
-    "static/js/main.d70e1395.js"
+    "static/js/main.a6ca0946.js"
   ]
 }
